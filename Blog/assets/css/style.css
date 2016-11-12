@@ -2,7 +2,10 @@
 height: 380px;
 }
 
-
+body {
+	margin-left: 15%;
+	margin-right: 15%;
+}
 
 
 
@@ -34,10 +37,12 @@ border-radius: 0px;
 
 .img-responsive {
 	height: 300px;
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
 
 p {
-	margin-top: 2%;
+	margin-top: 10px;
 }
 
 .media-body {
