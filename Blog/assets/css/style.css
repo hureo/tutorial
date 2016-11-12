@@ -1,0 +1,45 @@
+.marginBodyFooter {
+height: 380px;
+}
+
+
+
+
+
+.panel-footer{
+text-align:center;
+}
+
+.navbar {
+	border-radius: 0px;
+}
+
+.panel {
+border-radius: 0px;
+}
+
+.row.smell {
+	margin-left: 10px;
+}
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+}
+.content {
+  min-height: calc(92vh - 80px);
+}
+
+.img-responsive {
+	height: 300px;
+}
+
+p {
+	margin-top: 2%;
+}
+
+.media-body {
+	padding-top: 3%;
+} 
